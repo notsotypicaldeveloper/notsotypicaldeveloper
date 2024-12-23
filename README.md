@@ -1,6 +1,6 @@
 ![WelcomeToMyGithub](https://github.com/user-attachments/assets/34d691ec-2cef-453b-9b94-439678327166)
 <h1 align="center">Hi 👋, I'm NotsotypicalDeveloper</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Hi there! I'm backend developer who likes to create scalable, efficient and secure system. With experience in both front-end and backend development, I want to collaborate with people and create an impact using technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notsotypicaldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="notsotypicaldeveloper" /> </p>
 
@@ -8,8 +8,7 @@
 
 - 📫 How to reach me **notsotypicaldeveloper@gmail.com**
 
-- ⚡ Fun fact **I am awesome**
-
+- 👨‍💻Check out my Projects [Portfolio](https://.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 
