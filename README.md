@@ -2,7 +2,7 @@
 <img width="1439" alt="welcomeToMyGithub" src="https://github.com/user-attachments/assets/06e300a0-0355-4cff-9b26-86c5873fd25e" />
 <h1 align="center">Hi 👋, I'm NotsotypicalDeveloper</h1>
 <br/>
-<h3 align="center">Hi there! I'm backend developer who likes to create scalable, efficient and secure system. With experience in both front-end and backend development, I want to !
+<h3 align="center">Hi there! I'm backend developer who likes to create scalable, efficient and secure system. With experience in both front-end and backend development, I want to
 collaborate with people and create an impact using technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notsotypicaldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="notsotypicaldeveloper" /> </p>
