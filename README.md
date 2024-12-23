@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
-
+![WelcomeToMyGithub](https://github.com/user-attachments/assets/34d691ec-2cef-453b-9b94-439678327166)
 <h1 align="center">Hi 👋, I'm NotsotypicalDeveloper</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
