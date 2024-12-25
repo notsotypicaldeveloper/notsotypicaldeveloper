@@ -11,7 +11,7 @@ collaborate with people and create an impact using technology</h3>
 
 - 📫 How to reach me **notsotypicaldeveloper@gmail.com**
 
-- 👨‍💻Check out my Projects [Portfolio](https://.github.io/)
+- 👨‍💻Check out my Projects [Portfolio](https://notsotypical-developer-github-io.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 
