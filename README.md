@@ -1,6 +1,6 @@
 
 <img width="1439" alt="welcomeToMyGithub" src="https://github.com/user-attachments/assets/06e300a0-0355-4cff-9b26-86c5873fd25e" />
-<h1 align="center">Hi 👋, I'm NotsotypicalDeveloper</h1>
+<h1 align="center">Hi 👋, I am known by nickname: NotsotypicalDeveloper</h1>
 <br/>
 <h3 align="center">Hi there! I'm full stack developer(backend heavy) who likes to create scalable, efficient and secure system. With experience in both front-end and backend development, I want to
 collaborate with people and create an impact using technology</h3>
