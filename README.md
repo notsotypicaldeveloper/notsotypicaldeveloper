@@ -94,4 +94,10 @@ $ ship --highlights
 
 ---
 
-<p align="center"><code>the fastest way to reach me is email — I reply like it's a P1</code></p>
+<h3 align="center">📫 Fastest way to reach me</h3>
+
+<p align="center">
+  <a href="mailto:notsotypicaldeveloper@gmail.com"><img src="https://img.shields.io/badge/notsotypicaldeveloper@gmail.com-0B0E16?style=for-the-badge&logo=gmail&logoColor=F5B453" alt="Email me"/></a>
+</p>
+
+<p align="center"><code>I reply like it's a P1.</code></p>
